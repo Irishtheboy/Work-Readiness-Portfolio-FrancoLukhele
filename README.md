@@ -1,94 +1,100 @@
-# PRP370S Digital Portfolio
+# PRP370S Digital Portfolio – Franco Lukhele
 
-Welcome to my digital portfolio for the PRP370S Work Readiness Assessment. This repository contains evidence of my career preparation, skills, and reflections using the STAR technique.
+Welcome to my digital portfolio for the **PRP370S Work Readiness Assessment**. I am an IT student at CPUT with a strong passion for **game development**. This repository presents my growth in work readiness through evidence and structured reflections using the **STAR technique** (Situation, Task, Action, Result).
 
-## Portfolio Contents
+## 📚 Portfolio Contents
 
-- [Career Counselling](career-counselling.md)
-- [Skills and Interests](skills-and-interests.md)
-- [Personality Assessment](personality-assessment.md)
-- [CV](cv.md)
-- [Reflections](reflections.md)
-
-Each section includes evidence of my learning and a reflection using the STAR method (Situation, Task, Action, Result).
+- [Career Counselling](#career-counselling)
+- [Skills and Interests](#skills-and-interests)
+- [Personality Assessment](#personality-assessment)
+- [CV](#cv)
+- [Final Reflections](#final-reflections)
 
 ---
 
-# Career Counselling – Evidence
+## 💼 Career Counselling
 
-## 📌 Screenshot of Career Counselling Session
-
+### 📁 Evidence
 ![Career Counselling Screenshot](./CR.png)
 
-> *Note: This screenshot was taken during my career counselling session where we discussed my strengths, career preferences, and potential career paths based on my academic background and personal interests.*
-
----
-
-## 📝 Brief Summary
-
-During the session, we explored my key strengths, including communication, organization, and problem-solving. The counsellor helped me understand how these traits align with careers in IT project management or UI/UX design. I was advised to explore internships, improve my LinkedIn profile, and attend industry networking events.
-
-This session was valuable in giving me direction and confidence regarding my career planning.
-
-
-## Skills and Interests
-
-### 📁 Evidence
-- Completed skills inventory
-- Personal interest assessment results
 
 ### ✍️ Reflection (STAR)
-**Situation:** Completed self-assessment tools provided during work readiness workshops.
 
-**Task:** Identify my strongest technical and soft skills.
+**Situation:** I attended a virtual career counselling session organized by CPUT's Career Services.
 
-**Action:** Documented and validated skills through peer feedback and project contributions.
+**Task:** To explore and clarify career opportunities related to my interests in game development.
 
-**Result:** Strengthened my resume and refined my focus towards frontend development.
+**Action:** I discussed my background, academic progress, and passion for game development with the counsellor. We reviewed job roles such as Unity Developer, Gameplay Programmer, and Technical Artist.
+
+**Result:** I gained clarity on potential career paths and was advised to build a strong portfolio, start contributing to open-source game projects, and apply for internships in studios like Sea Monster or Free Lives.
 
 ---
 
-## Personality Assessment
+## 🧠 Skills and Interests
 
 ### 📁 Evidence
-- Myers-Briggs Type Indicator (MBTI) results
-- Reflection notes on personal traits
+![Skills and Interests Screenshot](./SI.png)
+
 
 ### ✍️ Reflection (STAR)
-**Situation:** Participated in a personality profiling activity as part of career readiness training.
 
-**Task:** Understand how my personality traits influence my working style.
+**Situation:** During the Work Readiness training, I completed a self-assessment exercise to identify my top skills and interests.
 
-**Action:** Analyzed results with a mentor and aligned my findings with industry roles.
+**Task:** Reflect on and validate the skills I use in both academic and personal game projects.
 
-**Result:** Gained insights that improved my teamwork and time management strategies.
+**Action:** I listed my technical skills (C#, Unity, Git, Blender) and soft skills (creativity, teamwork, time management). I compared these with job descriptions in the game industry.
+
+**Result:** I confirmed that my passion for game dev aligns well with industry requirements. I also updated my resume and LinkedIn to better showcase my game development skills.
 
 ---
 
-## CV
+## 🧬 Personality Assessment
 
 ### 📁 Evidence
-- Drafted and finalized CV (available as downloadable PDF)
+![Personality Assessment Screenshot](./PA.png)
+
 
 ### ✍️ Reflection (STAR)
-**Situation:** Tasked to create a professional CV as part of the readiness module.
 
-**Task:** Draft a compelling and ATS-friendly CV highlighting academic and practical experience.
+**Situation:** I took a personality profiling test as part of the course.
 
-**Action:** Used templates and feedback to revise and polish the final document.
+**Task:** Understand how my personality traits affect my work habits and career fit.
 
-**Result:** Submitted a professional CV that accurately reflects my capabilities and interests.
+**Action:** I reviewed the results, which described me as a reflective problem-solver with a strong focus on detail and creativity. I discussed these with my mentor during a feedback session.
+
+**Result:** I now understand why I enjoy solo game jams, prototyping, and debugging. This insight motivates me to pursue roles in gameplay programming or indie game development.
 
 ---
 
-## Reflections
+## 📄 CV
 
-This section contains consolidated reflections on how each artefact contributed to my work readiness journey.
+### 📁 Evidence
+[📄 View My CV (PDF)](./FrancoLukhele.pdf)
+
+
+### ✍️ Reflection (STAR)
+
+**Situation:** I was required to build a professional CV for internship/job applications.
+
+**Task:** Create an industry-standard CV that showcases both academic and extracurricular achievements in game development.
+
+**Action:** I used a modern CV template, included sections for Unity/C# experience, portfolio links, and coursework. I asked a lecturer and a friend in industry for feedback.
+
+**Result:** I now have a CV tailored to the game dev industry, which I have already used to apply for two internships.
+
+---
+
+## 🔄 Final Reflections
+
+This e-portfolio represents my journey of personal and professional growth during the PRP370S module.
 
 ### Key Takeaways:
-- I better understand my career direction.
-- My CV and assessments have helped build confidence.
-- STAR reflections taught me how to structure experiences meaningfully.
+- Career counselling helped me align my game dev passion with realistic goals.
+- I discovered that my personality and strengths fit well within creative tech roles.
+- I’ve built a stronger CV and now know how to showcase my skills using the STAR method.
 
-Thank you for reviewing my portfolio!
+🎮 I am excited to continue developing my game dev skills and contribute to projects that bring creative visions to life!
 
+---
+
+> 📝 **GitHub Repository maintained by Franco Lukhele | CPUT IT Student | Game Dev Enthusiast**
