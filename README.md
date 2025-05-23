@@ -1,100 +1,117 @@
-# PRP370S Digital Portfolio – Franco Lukhele
+# 🎓 PRP370S Digital Portfolio – *Franco Lukhele*
 
-Welcome to my digital portfolio for the **PRP370S Work Readiness Assessment**. I am an IT student at CPUT with a strong passion for **game development**. This repository presents my growth in work readiness through evidence and structured reflections using the **STAR technique** (Situation, Task, Action, Result).
+Welcome to my **Work Readiness Portfolio**, created as part of the PRP370S module at the Cape Peninsula University of Technology. This digital collection highlights my journey, skills, and professional development with a focus on **game development**—my greatest passion.
 
-## 📚 Portfolio Contents
+---
 
-- [Career Counselling](#career-counselling)
-- [Skills and Interests](#skills-and-interests)
-- [Personality Assessment](#personality-assessment)
-- [CV](#cv)
-- [Final Reflections](#final-reflections)
+## 📁 Portfolio Overview
+
+- [💼 Career Counselling](#-career-counselling)
+- [🧠 Skills & Interests](#-skills--interests)
+- [🧬 Personality Assessment](#-personality-assessment)
+- [📄 CV](#-cv)
+- [🔄 Final Reflections](#-final-reflections)
 
 ---
 
 ## 💼 Career Counselling
 
-### 📁 Evidence
+### 📸 Evidence  
 ![Career Counselling Screenshot](./CR.png)
-
 
 ### ✍️ Reflection (STAR)
 
-**Situation:** I attended a virtual career counselling session organized by CPUT's Career Services.
+**Situation:**  
+I attended a virtual career counselling session organized by CPUT’s Career Services.
 
-**Task:** To explore and clarify career opportunities related to my interests in game development.
+**Task:**  
+Explore and clarify career opportunities that align with my game development goals.
 
-**Action:** I discussed my background, academic progress, and passion for game development with the counsellor. We reviewed job roles such as Unity Developer, Gameplay Programmer, and Technical Artist.
+**Action:**  
+Discussed my academic journey and technical interests with a career advisor. Together, we mapped out pathways such as Unity Developer, Gameplay Programmer, and Technical Artist.
 
-**Result:** I gained clarity on potential career paths and was advised to build a strong portfolio, start contributing to open-source game projects, and apply for internships in studios like Sea Monster or Free Lives.
+**Result:**  
+Gained direction and was encouraged to develop a strong portfolio, contribute to open-source projects, and apply for internships at studios like **Sea Monster** or **Free Lives**.
 
 ---
 
-## 🧠 Skills and Interests
+## 🧠 Skills & Interests
 
-### 📁 Evidence
-![Skills and Interests Screenshot](./SI.png)
+### 📸 Evidence  
+#### 📌 Work Readiness Exercise  
+![Skills and Interests Screenshot](./SI.png)  
 
+#### 📌 GitHub Activity (Evidence of Practice)  
+![Skills and Interests Screenshot](./EV1.png)
 
 ### ✍️ Reflection (STAR)
 
-**Situation:** During the Work Readiness training, I completed a self-assessment exercise to identify my top skills and interests.
+**Situation:**  
+As part of the Work Readiness program, I completed a self-assessment to discover my strongest skills and interests.
 
-**Task:** Reflect on and validate the skills I use in both academic and personal game projects.
+**Task:**  
+Evaluate how my existing skills align with industry demands in game development.
 
-**Action:** I listed my technical skills (C#, Unity, Git, Blender) and soft skills (creativity, teamwork, time management). I compared these with job descriptions in the game industry.
+**Action:**  
+Assessed my strengths in **Unity**, **C#**, **version control (Git)**, and **3D asset integration**. I actively developed [**LoneGod**](https://github.com/Irishtheboy/LoneGod), a solo game project that showcases gameplay mechanics, scripting, and environment design. I also contribute to online game dev communities for feedback and growth.
 
-**Result:** I confirmed that my passion for game dev aligns well with industry requirements. I also updated my resume and LinkedIn to better showcase my game development skills.
+**Result:**  
+This reflection solidified my focus on game development. LoneGod has become a cornerstone of my portfolio and a demonstration of my problem-solving and creative capabilities.
 
 ---
 
 ## 🧬 Personality Assessment
 
-### 📁 Evidence
+### 📸 Evidence  
 ![Personality Assessment Screenshot](./PA.png)
-
 
 ### ✍️ Reflection (STAR)
 
-**Situation:** I took a personality profiling test as part of the course.
+**Situation:**  
+Completed a personality profiling assessment during the career readiness module.
 
-**Task:** Understand how my personality traits affect my work habits and career fit.
+**Task:**  
+Understand how my personality influences my work preferences and career suitability.
 
-**Action:** I reviewed the results, which described me as a reflective problem-solver with a strong focus on detail and creativity. I discussed these with my mentor during a feedback session.
+**Action:**  
+Analyzed results that highlighted traits like introversion, creativity, and attention to detail. Discussed these with a mentor to find connections with roles in the creative tech space.
 
-**Result:** I now understand why I enjoy solo game jams, prototyping, and debugging. This insight motivates me to pursue roles in gameplay programming or indie game development.
+**Result:**  
+This insight explained my love for solo game jams, debugging, and immersive storytelling. I'm now more confident in pursuing roles like Gameplay Programmer or Indie Game Designer.
 
 ---
 
 ## 📄 CV
 
-### 📁 Evidence
-[📄 View My CV (PDF)](./FrancoLukhele.pdf)
-
+### 📎 [📄 View My CV (PDF)](./FrancoLukhele.pdf)
 
 ### ✍️ Reflection (STAR)
 
-**Situation:** I was required to build a professional CV for internship/job applications.
+**Situation:**  
+Required to design a professional CV to apply for internships and jobs.
 
-**Task:** Create an industry-standard CV that showcases both academic and extracurricular achievements in game development.
+**Task:**  
+Build a game dev-oriented CV that reflects both technical and creative experiences.
 
-**Action:** I used a modern CV template, included sections for Unity/C# experience, portfolio links, and coursework. I asked a lecturer and a friend in industry for feedback.
+**Action:**  
+Used a modern, ATS-friendly template. Emphasized my Unity/C# skills, linked to GitHub projects, and added academic projects. I included my work using **MetaHuman**, where I design photorealistic characters for cinematic scenes in Unreal Engine. Received feedback from an industry peer and a CPUT lecturer.
 
-**Result:** I now have a CV tailored to the game dev industry, which I have already used to apply for two internships.
+**Result:**  
+I now have a polished, role-specific CV that has already been used to apply for two internships and is ready for networking events.
 
 ---
 
 ## 🔄 Final Reflections
 
-This e-portfolio represents my journey of personal and professional growth during the PRP370S module.
+This portfolio represents my professional and personal evolution during the PRP370S module. It helped me align my passion for game development with real-world strategies for success.
 
-### Key Takeaways:
-- Career counselling helped me align my game dev passion with realistic goals.
-- I discovered that my personality and strengths fit well within creative tech roles.
-- I’ve built a stronger CV and now know how to showcase my skills using the STAR method.
-
-🎮 I am excited to continue developing my game dev skills and contribute to projects that bring creative visions to life!
+### 💡 Key Takeaways:
+- 🎯 Career counselling gave me clarity and focus.
+- 🛠️ I now understand how my personality complements roles in game creation.
+- 🧰 My STAR reflections helped structure my accomplishments into career-ready narratives.
+- 📂 I’ve created a portfolio and CV I’m truly proud to share.
 
 ---
 
-> 📝 **GitHub Repository maintained by Franco Lukhele | CPUT IT Student | Game Dev Enthusiast**
+> 🧠 Maintained by **Franco Lukhele** | `IT Student @ CPUT` | 🎮 *Game Dev Enthusiast*  
+> "Turning creative visions into playable realities, one line of code at a time."
