@@ -21,8 +21,8 @@ Welcome to my **Work Readiness Portfolio**, created as part of the PRP370S modul
 
 ### ✍️ Reflection (STAR)
 
-**Situation:**  
-I attended a virtual career counselling session organized by CPUT’s Career Services.
+**Situation:**
+During the Work Readiness programme, I completed a self-assessment to evaluate my strengths, interests, and technical capabilities.
 
 **Task:**  
 Explore and clarify career opportunities that align with my game development goals.
