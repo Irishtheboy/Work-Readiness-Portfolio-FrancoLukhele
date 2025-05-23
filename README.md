@@ -18,7 +18,7 @@ Each section includes evidence of my learning and a reflection using the STAR me
 
 ## 📌 Screenshot of Career Counselling Session
 
-![Career Counselling Screenshot](./Screenshot-2025-05-23-133750.png)
+![Career Counselling Screenshot](./CR.png)
 
 > *Note: This screenshot was taken during my career counselling session where we discussed my strengths, career preferences, and potential career paths based on my academic background and personal interests.*
 
