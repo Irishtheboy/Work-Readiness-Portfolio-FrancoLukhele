@@ -128,7 +128,7 @@ After completing the task, I now feel much more confident writing and sending pr
 ## 💼 Interview Skills  
 
 ### 📸 Evidence  
-add image here please franco
+![Professional Networking Screenshot](./s1.png)
 
 ### ✍️ Reflection (STAR)
 
@@ -155,7 +155,7 @@ After applying these strategies, I now feel much more confident and prepared for
 ## 💼 Mock Interview  
 
 ### 📸 Evidence  
-add image here pls franco
+[![Mock Interview](./mock-interview-thumbnail.png)](https://github.com/Irishtheboy/Work-Readiness-Portfolio-FrancoLukhele/raw/main/mock-interview.mp4)
 
 ### ✍️ Reflection (STAR)
 
@@ -181,7 +181,7 @@ The mock interview helped me gain confidence and improved my ability to articula
 ## 🌐 Professional Networking  
 
 ### 📸 Evidence  
-![Professional Networking Screenshot](./ProfessionalNetworking.png)
+![Professional Networking Screenshot](./s2.png)
 
 ### ✍️ Reflection (STAR)
 
@@ -207,7 +207,7 @@ I gained a better understanding of the power of networking and how it can open d
 ## 💼 Workplace Etiquette  
 
 ### 📸 Evidence  
-![Workplace Etiquette Screenshot](./WorkplaceEtiquette.png)  
+![Workplace Etiquette Screenshot](./s3.png)  
 
 ### ✍️ Reflection (STAR)
 
