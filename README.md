@@ -108,7 +108,7 @@ I now have a polished, role-specific CV that has already been used to apply for 
 ## 💬 Business Communication  
 
 ### 📸 Evidence  
-add image here pls franco
+![Career Counselling Screenshot](./bc.png)
 
 ### ✍️ Reflection (STAR)
 
